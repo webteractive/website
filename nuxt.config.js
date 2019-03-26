@@ -21,7 +21,7 @@ module.exports = {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: `We're a software development services company haling out from the beautiful city of Davao, Philippines.` }
+      { hid: 'description', name: 'description', content: `We're a software development services company from the beautiful city of Davao, Philippines.` }
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
