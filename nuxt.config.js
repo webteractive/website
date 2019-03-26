@@ -23,7 +23,10 @@ module.exports = {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: `We're a software development services company haling out from the beautiful city of Davao, Philippines.` }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    link: [
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', type: 'css/text', href: 'https://fonts.googleapis.com/css?family=Lalezar' }
+    ]
   },
 
   /*
