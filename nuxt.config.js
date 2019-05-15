@@ -59,7 +59,7 @@ module.exports = {
     extractCSS: true,
     postcss: {
       plugins: {
-        tailwindcss: path.resolve('./tailwind.js')
+        tailwindcss: path.resolve('./tailwind.config.js')
       },
       preset: { autoprefixer: { grid: true } }
     },
